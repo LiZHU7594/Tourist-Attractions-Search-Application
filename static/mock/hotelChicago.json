@@ -1,0 +1,48 @@
+{
+	"ret": true,
+	"data":{
+		"cityName": "Chicago",
+		"hotelList":[{
+		"id": "0001",
+		"imgUrl": "https://cache.radissonhotels.com/galleries/radblu/photos/webextra/ilchiaqu/map_drawer/exterior_295x205.jpg",
+		"title" : "Radisson Blu Aqua Hotel",
+		"desc":"221 North Columbus Drive, Loop"
+			},{
+		"id": "0002",
+		"imgUrl": "https://pix6.agoda.net/hotelImages/45917/0/30a422d1d224587a914755e482b7d7ff.jpg?s=1024x768",
+		"title":"The Tremont Chicago Hotel",
+		"desc":"100 East Chestnut, Magnificent Mile"
+			},{
+		"id": "0003",
+		"imgUrl": "https://pix6.agoda.net/hotelImages/832/83249/83249_17042522210052630504.jpg?s=1024x768",
+		"title":"Four Seasons Hotel Chicago",
+		"desc":"120 East Delaware Place, Magnificent Mile"
+			},{
+		"id": "0004",
+		"imgUrl": "https://pix6.agoda.net/hotelImages/146894/-1/ff64f0f313abb14ed5fcb33aa5dd8001.jpg?s=1024x768",
+		"title" : "Central Loop Hotel",
+		"desc":"111 West Adams Street, Loop"
+			},{
+		"id": "0005",
+		"imgUrl": "https://pix6.agoda.net/hotelImages/45911/0/0ebe6db0f9f22236e3d9d08dab7355f4.jpg?s=1024x768",
+		"title":"Millennium Knickerbocker Hotel",
+		"desc":"163 East Walton Place, Magnificent Mile"
+			},{
+		"id": "0006",
+		"imgUrl": "https://pix6.agoda.net/hotelImages/45899/0/8e513a4471e25072ecc89b4d3e5c957d.jpg?s=1024x768",
+		"title":"Best Western Grant Park Hotel",
+		"desc":"1100 S Michigan Avenue, Loop"
+			},{
+		"id": "0007",
+		"imgUrl": "https://pix6.agoda.net/hotelImages/45902/0/42fe6afadc4162ddc75adb5ed1aee6f0.jpg?s=1024x768",
+		"title":"Congress Plaza Hotel",
+		"desc":"520 South Michigan Avenue, Loop"
+			},{
+		"id": "0008",
+		"imgUrl": "https://pix6.agoda.net/hotelImages/280/2802451/2802451_17091423090056377959.jpg?s=1024x768",
+		"title":"The Hotel at Midtown",
+		"desc":"2444 North Elston Avenue, Lincoln Park"
+			}]
+
+	}
+}

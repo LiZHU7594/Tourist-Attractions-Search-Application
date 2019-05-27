@@ -1,0 +1,82 @@
+{
+	"ret": true,
+	"data":{
+		"swiperList": [{
+				"id": "0001",
+				"imgUrl": "https://lonelyplanetimages.imgix.net/mastheads/GettyImages-538096543_medium.jpg?sharp=10&vib=20&w=1200"
+			},{
+				"id": "0002",
+				"imgUrl": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/new-york-skyline-sunset-brian-ray.jpg"
+			},{
+				"id": "0003",
+				"imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmL27IG4t5fi9FLU_xjWfhaC8GjE-VVTZPN3eSqsESXPk7asNB"
+			}],
+
+		"iconList": [{
+				"id": "0001",
+				"imgUrl":"https://img.icons8.com/ios/2x/ticket-purchase.png",
+				"desc": "Ticket"
+			},{
+				"id": "0002",
+				"imgUrl":"https://img.icons8.com/ios/2x/hotel-information.png",
+				"desc": "Hotel"
+			},{
+				"id": "0003",
+				"imgUrl":"https://img.icons8.com/ios/2x/international-food.png",
+				"desc": "Food"
+			},{
+				"id": "0004",
+				"imgUrl":"https://img.icons8.com/ios/2x/dog-park.png",
+				"desc": "Wildlife"
+			},{
+				"id": "0005",
+				"imgUrl":"https://img.icons8.com/ios/2x/mountain.png",
+				"desc": "Mountain"
+			},{
+				"id": "0006",
+				"imgUrl":"https://img.icons8.com/ios/2x/coffee-to-go.png",
+				"desc": "Coffee"
+			},{
+				"id": "0007",
+				"imgUrl":"https://img.icons8.com/ios/2x/london-cab.png",
+				"desc": "Taxi"
+			},{
+				"id": "0008",
+				"imgUrl":"https://img.icons8.com/ios/2x/shopping-mall.png",
+				"desc": "Shopping"
+			},{
+				"id": "0009",
+				"imgUrl":"https://img.icons8.com/ios/2x/bar.png",
+				"desc": "Bar"
+			}],
+
+		"recommendList":[{
+		"id": "0001",
+		"imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6EysS1Qkd5hNjAMNUgPlyal4WEALRctdJ8_odDUK9NsNloGo",
+		"title" : "Statue of Liberty National Monument",
+		"desc":"American icon in New York Harbor."
+			},{
+		"id": "0002",
+		"imgUrl": "https://www.nycgovparks.org/parks/M010/featureditem/belvedere_castle.jpg",
+		"title":"Central Park",
+		"desc":"Urban oasis with ballfields & a zoo."
+			}],
+		
+		"weekendList":[{
+		"id": "0001",
+		"imgUrl": "https://www.tripsavvy.com/thmb/n6u1EsL5znEZGZMqANhzAiUvp48=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/empire-state-building-at-sunset-171080501-59f9d0c6d088c000102668bb.jpg",
+		"title":"Empire State Building",
+		"desc":"103-story landmark with observatories."
+			},{
+		"id": "0002",
+		"imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7q8ctIuBZSaF-SJRRZSHD6Nu0GAa9qnyNp8fHUZRkf00JI3l1mw",
+		"title":"Rockefeller Center",
+		"desc":"Iconic Midtown business complex."
+			},{
+		"id": "0003",
+		"imgUrl": "https://www.nycgo.com/images/venues/188/met-museum-tagger-yancey-iv-5194__x_large.jpg",
+		"title":"The Metropolitan Museum of Art",
+		"desc":"World-class art collection."
+			}]
+	}
+}

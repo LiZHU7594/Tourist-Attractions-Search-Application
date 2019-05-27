@@ -1,0 +1,24 @@
+{
+	"ret": true,
+	"data":{
+		"sightName": "John Hancock Center",
+		"bannerImg": "https://cdn.vox-cdn.com/thumbor/JbRmE1gx2-Ed8iw2MxdEAvhnFlU=/0x0:7567x5047/1200x800/filters:focal(3179x1919:4389x3129)/cdn.vox-cdn.com/uploads/chorus_image/image/58678261/shutterstock_692333593__1_.0.jpg",
+		"gallaryImgs": ["https://cdn.vox-cdn.com/thumbor/JbRmE1gx2-Ed8iw2MxdEAvhnFlU=/0x0:7567x5047/1200x800/filters:focal(3179x1919:4389x3129)/cdn.vox-cdn.com/uploads/chorus_image/image/58678261/shutterstock_692333593__1_.0.jpg", "http://s3.amazonaws.com/architecture-org/files/buildings/hancock-center-aaron-bean-pd.jpg","https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/chicago/CH_ChooseChicago_hancock_e30c2ef6-f985-4803-9c70-fa7b96b16999.jpg"],
+		"desc": "875 North Michigan Avenue, built as and still commonly referred to as the John Hancock Center, is a 100-story, 1,128-foot supertall skyscraper located in Chicago, Illinois. Located in the Magnificent Mile district, its name was changed to 875 North Michigan Avenue on February 12, 2018.",
+		"categoryList": [{
+				"title": "Adult Ticket",
+				"children": [{
+					"title": "Sold by Amazon"
+				},{
+					"title": "Sold by Walmart"
+				}]
+			}, {
+				"title": "Child Ticket",
+				"children": [{
+					"title": "Sold by Amazon"
+				},{
+					"title": "Sold by Walmart"
+				}]
+			}]
+	}
+}

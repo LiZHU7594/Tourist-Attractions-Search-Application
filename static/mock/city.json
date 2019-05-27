@@ -1,0 +1,93 @@
+{
+	"ret": true,
+	"data":{
+		"hotCities": [{
+			"id": "0001",
+			"name": "New York"
+		},{
+			"id": "0002",
+			"name": "Chicago"
+		},{
+			"id": "0003",
+			"name": "Loa Angeles"
+		},{
+			"id": "0004",
+			"name": "Washington"
+		},{
+			"id": "0005",
+			"name": "San Francisco"
+		},{
+			"id": "0006",
+			"name": "Seattle"
+		}],
+		"cities":{
+			"A":[{
+				"id": "0001",
+				"name": "Ann Arbor"
+			},{
+				"id": "0002",
+				"name": "Austin"
+			}],
+			"B":[{
+				"id": "0003",
+				"name": "Boston"
+			},{
+				"id": "0004",
+				"name": "Baltimore"
+			}],
+			"C":[{
+				"id": "0005",
+				"name": "Chicago"
+			},{
+				"id": "0006",
+				"name": "Corpus Christi"
+			}],
+			"D":[{
+				"id": "0007",
+				"name": "Detroit"
+			},{
+				"id": "0008",
+				"name": "Dallas"
+			}],
+			"E":[{
+				"id": "0009",
+				"name": "Easley"
+			},{
+				"id": "0010",
+				"name": "Easton"
+			}],
+			"F":[{
+				"id": "0011",
+				"name": "Fresno"
+			},{
+				"id": "0012",
+				"name": "Fontana"
+			}],
+			"G":[{
+				"id": "0013",
+				"name": "Galion"
+			},{
+				"id": "0014",
+				"name": "Gates"
+			}],
+			"H":[{
+				"id": "0015",
+				"name": "Hamburg"
+			},{
+				"id": "0016",
+				"name": "Hewitt"
+			}],
+			"I":[{
+				"id": "0017",
+				"name": "Inverness"
+			},{
+				"id": "0018",
+				"name": "Irvine"
+			}],
+			"N":[{
+				"id": "0019",
+				"name": "New York"
+			}]
+		}
+	}
+}

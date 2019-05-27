@@ -1,0 +1,87 @@
+{
+	"ret": true,
+	"data":{
+		"swiperList": [{
+				"id": "0001",
+				"imgUrl": "http://cstrategiesllc.com/wp-content/uploads/2015/07/chicago-river-1080x1920.jpg"
+			},{
+				"id": "0002",
+				"imgUrl": "http://www.bruna.cat/imgdownload/full/3/30786/chicago-wallpaper-hd.jpg"
+			},{
+				"id": "0003",
+				"imgUrl": "https://www.transtechsocial.org/wp-content/uploads/2017/01/chicago-wallpaper-pictures-18665-19217-hd-wallpapers.jpg"
+			}],
+
+		"iconList": [{
+				"id": "0001",
+				"imgUrl":"https://img.icons8.com/ios/2x/ticket-purchase.png",
+				"desc": "Ticket"
+			},{
+				"id": "0002",
+				"imgUrl":"https://img.icons8.com/ios/2x/hotel-information.png",
+				"desc": "Hotel"
+			},{
+				"id": "0003",
+				"imgUrl":"https://img.icons8.com/ios/2x/international-food.png",
+				"desc": "Food"
+			},{
+				"id": "0004",
+				"imgUrl":"https://img.icons8.com/ios/2x/dog-park.png",
+				"desc": "Wildlife"
+			},{
+				"id": "0005",
+				"imgUrl":"https://img.icons8.com/ios/2x/mountain.png",
+				"desc": "Mountain"
+			},{
+				"id": "0006",
+				"imgUrl":"https://img.icons8.com/ios/2x/coffee-to-go.png",
+				"desc": "Coffee"
+			},{
+				"id": "0007",
+				"imgUrl":"https://img.icons8.com/ios/2x/london-cab.png",
+				"desc": "Taxi"
+			},{
+				"id": "0008",
+				"imgUrl":"https://img.icons8.com/ios/2x/shopping-mall.png",
+				"desc": "Shopping"
+			},{
+				"id": "0009",
+				"imgUrl":"https://img.icons8.com/ios/2x/bar.png",
+				"desc": "Bar"
+			}],
+
+		"recommendList":[{
+		"id": "0001",
+		"imgUrl": "https://static.greatbigcanvas.com/images/square/trigger-image/john-hancock-center-one-of-the-tallest-buildings-in-chicago-illinois,1928722.jpg?max=128",
+		"title" : "John Hancock Center",
+		"desc":"Skyscraper observation deck."
+			},{
+		"id": "0002",
+		"imgUrl": "https://pbs.twimg.com/profile_images/596356924943126528/wQgtO7e3_400x400.jpg",
+		"title":"Magnificent Mile",
+		"desc":"Posh shops & the John Hancock Center."
+			}],
+		
+		"weekendList":[{
+		"id": "0003",
+		"imgUrl": "https://cdn.gobankingrates.com/wp-content/uploads/2018/12/Chicago-Illinois-with-Cloud-Gate-in-Millennium-Park-iStock-1000887654.jpg",
+		"title":"Millennium Park",
+		"desc":"24.5-acre green space with the reflective 'Bean' sculpture."
+			},{
+		"id": "0004",
+		"imgUrl": "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/acZhNbr/videoblocks-chicago-navy-pier-ferris-wheel-and-boats-on-lake-michigan-aerial-day-timelapse_ruhk-y4c7_thumbnail-full01.png",
+		"title":"Navy Pier",
+		"desc":"Former Navy training center with carnival rides & fireworks."
+			},{
+		"id": "0005",
+		"imgUrl": "https://i.redd.it/k3htj8gtbd711.jpg",
+		"title":"Willis Tower",
+		"desc":"Iconic, 110-story skyscraper."
+			},{
+		"id": "0006",
+		"imgUrl": "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/48byXia/videoblocks-the-art-institute-of-chicago-lion-on-exterior-building-4k_r85udccnm_thumbnail-full01.png",
+		"title":"The Art Institute of Chicago",
+		"desc":"2 boutiques specializing in art works."
+		}]
+	}
+}
