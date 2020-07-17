@@ -5,7 +5,7 @@ import VueAwesomeSwiper from 'vue-awesome-swiper'
 import App from './App'
 // 自动查找匹配文件。App.vue是一个单文件组件
 import router from './router'
-import fastClick from 'fastClick'
+import fastclick from 'fastclick'
 // 解决移动端某些机型延迟的问题
 import store from './store'
 import 'styles/reset.css'
@@ -15,7 +15,7 @@ import 'swiper/dist/css/swiper.css'
 // 各个文件都需要使用iconfont
 
 Vue.config.productionTip = false
-fastClick.attach(document.body)
+fastclick.attach(document.body)
 Vue.use(VueAwesomeSwiper)
 
 /* eslint-disable no-new */
