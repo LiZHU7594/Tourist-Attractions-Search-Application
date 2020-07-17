@@ -1,12 +1,10 @@
 <template>
-  <!-- 模板只能对外暴露一个标签 -->
   <div>
     <home-header></home-header>
     <home-swiper :list="swiperList"></home-swiper>
     <home-icons :list="iconList"></home-icons>
     <home-recommend :list="recommendList"></home-recommend>
     <home-weekend :list="weekendList"></home-weekend>
-    <!-- vue会自动把标签和组件做关联 -->
   </div>
 </template>
 
@@ -56,19 +54,16 @@ export default {
       }
     }
   },
-  // 使用局部组件的时候要声明
   mounted () {
     this.lastCity = this.city
     this.getHomeInfo()
   },
-  // 页面初次被加载的时候，会发送一个ajax请求
   activated () {
     if (this.lastCity !== this.city) {
       this.lastCity = this.city
       this.getHomeInfo()
     }
   }
-  // keep-alive携带的生命周期函数，当页面重新被显示的时候，会被执行
 }
 </script>
 

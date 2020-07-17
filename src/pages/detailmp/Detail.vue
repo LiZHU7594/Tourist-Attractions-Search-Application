@@ -10,7 +10,6 @@
     <div class="content">
       <detail-list :list="list"></detail-list>
     </div>
-    <!-- 帮助撑开页面高度 -->
   </div>
 </template>
 

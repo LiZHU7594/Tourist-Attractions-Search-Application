@@ -16,7 +16,6 @@
       v-show='showGallery'
       @close="handleGallaryClose"
       ></common-gallary>
-      <!-- commongallary以插槽的形式插入到FadeAnimation里面，slot代表common-gallary -->
     </fade-animation>
   </div>
 </template>

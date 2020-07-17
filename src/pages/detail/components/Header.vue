@@ -37,7 +37,6 @@ export default{
         let opacity = top / 140
         opacity = opacity > 1 ? 1 : opacity
         this.opacityStyle = { opacity }
-        // key-value都相等的时候，写一个就可以了
         this.showAbs = false
       } else {
         this.showAbs = true
@@ -46,14 +45,10 @@ export default{
   },
   activated () {
     window.addEventListener('scroll', this.handleScroll)
-    // 只要scroll事件被执行，对应的handleScroll事件就会被执行
-    // window是一个全局对象，这个事件会被绑定到所有的组件上
   },
-  // 因为用了keep-alive，页面只要被展示，activated就会被执行
   deactivated () {
     window.removeEventListener('scroll', this.handleScroll)
   }
-  // 当页面被隐藏或替换成新的页面的时候，这个生命周期钩子会被执行
 }
 </script>
 

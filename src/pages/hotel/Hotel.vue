@@ -38,7 +38,6 @@ export default {
       }
     }
   },
-  // 使用局部组件的时候要声明
   mounted () {
     this.getHotelInfo()
   }

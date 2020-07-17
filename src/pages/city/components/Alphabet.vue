@@ -37,12 +37,10 @@ export default {
   },
   updated () {
     this.startY = this.$refs['A'][0].offsetTop
-    // 当alphabet部分渲染好后，执行代码，拿到这个元素距顶部的高度
   },
   methods: {
     handleLetterClick (e) {
       this.$emit('change', e.target.innerText)
-      // 向外触发事件
     },
     handleTouchStart () {
       this.touchStatus = true
@@ -54,13 +52,11 @@ export default {
         }
         this.timer = setTimeout(() => {
           const touchY = e.touches[0].clientY - 79
-          // handletouchmove的时候会接受到一个参数e，touches[0]是手指的信息
           const index = Math.floor((touchY - this.startY) / 20)
           if (index >= 0 && index < this.letters.length) {
             this.$emit('change', this.letters[index])
           }
         }, 16)
-        // 正在做这件事情的时候，让它延迟16毫秒执行。假设在这16毫秒之间，又做了手指的滚动，那么上一次的操作会被清除掉，重新做这一次要做的事情
       }
     },
     handleTouchEnd () {

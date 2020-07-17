@@ -2,7 +2,6 @@
   <div>
     <div class="search">
       <input v-model="keyword" class="search-input" type="text" placeholder="Please enter city name" />
-      <!-- v-model双向绑定 -->
     </div>
     <div class="search-content" ref="search" v-show="keyword">
       <ul>
@@ -46,10 +45,8 @@ export default {
       this.$router.push('/')
     },
     ...mapMutations(['changeCity'])
-  // = this.$store.commit('changeCity')
   },
   watch: {
-    // 监听器，当keyword被改变的时候
     keyword () {
       if (this.timer) {
         clearTimeout(this.timer)
@@ -65,8 +62,6 @@ export default {
             if (value.name.indexOf(this.keyword) > -1) {
               result.push(value)
             }
-            // 把ABCD对应的pair-value里面的value再做一遍遍历
-            // 如果能在name里面搜索到这个关键词，就把它添加到resulte中
           })
         }
         this.list = result

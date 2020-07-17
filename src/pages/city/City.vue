@@ -9,7 +9,6 @@
     <city-alphabet
     :cities="cities"
     @change="handleLetterChange"></city-alphabet>
-    <!-- 监听change事件 -->
   </div>
 </template>
 

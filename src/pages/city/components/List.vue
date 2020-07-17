@@ -62,21 +62,17 @@ export default {
       this.$router.push('/')
     },
     ...mapMutations(['changeCity'])
-  // = this.$store.commit('changeCity')
   },
   watch: {
     letter () {
       if (this.letter) {
         const element = this.$refs[this.letter][0]
-        // 不加[0]会返回一个数组，因为ref是通过循环绑定的
         this.scroll.scrollToElement(element)
       }
     }
   },
-  // 侦听器
   mounted () {
     this.scroll = new Bscroll(this.$refs.wrapper)
-    // 创建实例属性
   }
 }
 </script>

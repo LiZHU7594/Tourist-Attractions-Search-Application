@@ -1,5 +1,4 @@
 <template>
-  <!-- 模板只能对外暴露一个标签 -->
   <div class='header'>
     <div class='header-input'>
       <span class="iconfont">&#xe63c;</span>
@@ -20,15 +19,12 @@ export default {
   name: 'HomeHeader',
   computed: {
     ...mapState(['city'])
-  // 把'city'这个公用数据映射到'city'这个计算属性中
   }
 }
 </script>
 
 <style lang='stylus' scoped>
 @import '~styles/variables.styl'
-/*在css中引入其他的css,回到scr要用~@*/
-/*样式里面引入样式要加@*/
   .header
     display: flex
     line-height: $headerHeight
