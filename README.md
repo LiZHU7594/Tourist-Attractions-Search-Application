@@ -15,11 +15,12 @@ npm run dev
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## Main Functions
-![home-1](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/home-1.png?raw=true)
-![home-2](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/home-2.png?raw=true)
-![city](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/city.png?raw=true)
-![detail](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/detail.png?raw=true)
-![hotels](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/hotels.png =250x)
+
+<img alt="home-1" float="left" marginRight="20" width="200" src="https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/home-1.png?raw=true">
+<img alt="home-2" float="left" marginRight="20" width="200" src="https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/home-2.png?raw=true">
+<img alt="city" float="left" marginRight="20" width="200" src="https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/city.png?raw=true">
+<img alt="detail" float="left" marginRight="20" width="200" src="https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/detail.png?raw=true">
+<img alt="hotels" float="left" marginRight="20" width="200" src="https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/hotels.png?raw=true">
 
 In the home page, you can search your destination in the top search bar or click the top-right button to browse tourism cities in City Choice page. 
 
