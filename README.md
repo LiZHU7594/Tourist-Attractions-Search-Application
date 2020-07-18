@@ -19,7 +19,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ![home-2](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/home-2.png?raw=true)
 ![city](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/city.png?raw=true)
 ![detail](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/detail.png?raw=true)
-![hotels](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/hotels.png?raw=true)
+![hotels](https://github.com/LiZHU7594/Tourist-Attractions-Search-Application/blob/master/pic/hotels.png =250x)
 
 In the home page, you can search your destination in the top search bar or click the top-right button to browse tourism cities in City Choice page. 
 
